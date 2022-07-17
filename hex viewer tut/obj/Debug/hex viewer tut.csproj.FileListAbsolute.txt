@@ -1,0 +1,11 @@
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\bin\Debug\hex viewer tut.exe.config
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\bin\Debug\hex viewer tut.exe
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\bin\Debug\hex viewer tut.pdb
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\obj\Debug\hex viewer tut.csproj.AssemblyReference.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\obj\Debug\hex viewer tut.csproj.SuggestedBindingRedirects.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\obj\Debug\hex_viewer_tut.Form1.resources
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\obj\Debug\hex_viewer_tut.Properties.Resources.resources
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\obj\Debug\hex viewer tut.csproj.GenerateResource.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\obj\Debug\hex viewer tut.csproj.CoreCompileInputs.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\obj\Debug\hex viewer tut.exe
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\hex viewer tut\hex viewer tut\obj\Debug\hex viewer tut.pdb
